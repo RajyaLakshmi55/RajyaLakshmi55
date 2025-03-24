@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-commerce Website](https://github.com/RajyaLakshmi55/E-commerce-Website)
 
-- 🌱 I’m currently learning **Freelancer**
+- 🌱 I’m currently learning at **Python Code**
 
 - 👯 I’m looking to collaborate on **the code creaters**
 
